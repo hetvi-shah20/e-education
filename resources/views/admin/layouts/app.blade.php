@@ -118,7 +118,6 @@
 
     <!-- begin::Quick Panel -->
 
-
     <!-- end::Quick Panel -->
 
     <!-- begin::Scrolltop -->
